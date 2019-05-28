@@ -24,11 +24,12 @@ background-color:#1976D2;
 nav {
     background-color:#2196F3;
     color: #ffffff;
+    font-size: 50px;
     position: fixed;
     top: 0;
     width: 100%;
+    height: 5%;
     padding: 10px center;
-    margin: 5px;
     
 }
 
@@ -54,6 +55,7 @@ nav ul {
 nav a {
     color: #ffffff;
     text-decoration: none;
+    font-size: 26px;
 }
 nav a:hover {
     background-color: #ffffff;
